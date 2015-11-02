@@ -16,6 +16,7 @@ import models.User;
 
 public class Main
 {
+	//comment test
   public static void main(String[] args) throws Exception
   {    
     File  datastore = new File("datastore3.xml");
